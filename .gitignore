@@ -2,4 +2,3 @@ node_modules
 src
 settings.json
 .prettierrc
-output_svgs
